@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Raj]
 Senior Java Developer with 6 years of enterprise software development experience
 
 ## 🚀 Tech Stack
